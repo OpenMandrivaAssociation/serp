@@ -4,7 +4,7 @@ Version:       1.14.2
 Release:       0.6.20120406cvs.0%{?dist}
 Summary:       Bytecode manipulation framework
 License:       BSD
-Url:           http://serp.sourceforge.net/
+Url:           https://serp.sourceforge.net/
 # cvs -d:pserver:anonymous@serp.cvs.sourceforge.net:/cvsroot/serp login
 # cvs -z3 -d:pserver:anonymous@serp.cvs.sourceforge.net:/cvsroot/serp  export -r HEAD serp
 # tar czf serp-1.14.2-20120406-src-cvs.tar.gz serp
